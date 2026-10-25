@@ -1,4 +1,3 @@
-# Lab5We
 # Praktikum 5 — JavaScript Dasar dan Manipulasi HTML
 
 ## 1. Tujuan Praktikum
@@ -111,4 +110,137 @@ Menerapkan materi JavaScript yang telah dipelajari dalam sebuah program sederhan
 1. Membuat struktur halaman menggunakan HTML.
 2. Menambahkan input dan tombol yang dibutuhkan.
 3. Membuat logika program menggunakan JavaScript.
-4. Memeriksa input pengguna sebelum dipros
+4. Memeriksa input pengguna sebelum diproses.
+5. Menampilkan hasil program pada halaman.
+
+### Hasil
+
+Mini project digunakan untuk menggabungkan konsep dasar JavaScript dengan elemen HTML agar program dapat berinteraksi dengan pengguna.
+
+**Screenshot:**
+
+![Hasil Mini Project](screenshots/mini-project.png)
+
+## 5. Eksperimen Mandiri
+
+### Eksperimen 1 — Operasi Aritmatika Dua Angka
+
+**Tujuan:** Mengolah dua angka yang dimasukkan pengguna dan menampilkan hasil operasi aritmatika.
+
+**Langkah kerja:**
+1. Memasukkan dua angka.
+2. Mengubah input menjadi tipe angka.
+3. Melakukan operasi aritmatika.
+4. Menampilkan hasil perhitungan.
+
+**Hasil:** Program menampilkan hasil operasi aritmatika dari dua angka yang dimasukkan.
+
+**Screenshot:**
+
+![Hasil Eksperimen 1](screenshots/eksperimen-1.png)
+
+### Eksperimen 7 — Tabel Perkalian 7
+
+**Tujuan:** Menggunakan perulangan untuk membuat tabel perkalian 7 dari 1 sampai 10.
+
+**Langkah kerja:**
+1. Menekan tombol untuk menampilkan perkalian.
+2. Menjalankan perulangan dari 1 sampai 10.
+3. Menghitung hasil perkalian 7.
+4. Menampilkan seluruh hasil pada halaman.
+
+**Hasil:** Program menampilkan tabel perkalian 7 dari `7 x 1 = 7` sampai `7 x 10 = 70`.
+
+**Screenshot:**
+
+![Hasil Eksperimen 7](screenshots/eksperimen-7.png)
+
+### Eksperimen 8 — Fungsi Cek Bilangan Genap
+
+**Tujuan:** Membuat fungsi `cekGenap(angka)` yang mengembalikan nilai `true` jika angka merupakan bilangan genap.
+
+**Langkah kerja:**
+1. Memasukkan bilangan bulat.
+2. Memeriksa sisa pembagian angka dengan 2.
+3. Menampilkan hasil pemeriksaan.
+
+**Hasil:** Program dapat menentukan apakah bilangan yang dimasukkan termasuk genap atau ganjil.
+
+**Screenshot:**
+
+![Hasil Eksperimen 8](screenshots/eksperimen-8.png)
+
+### Eksperimen 9 — Validasi Formulir
+
+**Tujuan:** Memastikan data formulir telah diisi dengan benar sebelum diproses.
+
+**Langkah kerja:**
+1. Mengisi nama mahasiswa.
+2. Memasukkan nilai antara 0 dan 100.
+3. Menekan tombol kirim.
+4. Memeriksa kelengkapan dan kebenaran data.
+
+**Hasil:** Program menampilkan pesan validasi jika data sesuai atau pesan kesalahan jika data tidak valid.
+
+**Screenshot:**
+
+![Hasil Eksperimen 9](screenshots/eksperimen-9.png)
+
+### Eksperimen 10 — Pemilihan Menu dan Perhitungan Harga
+
+**Tujuan:** Menghitung total harga berdasarkan menu yang dipilih pengguna.
+
+**Langkah kerja:**
+1. Memilih satu atau beberapa menu.
+2. Membaca harga setiap menu yang dipilih.
+3. Menjumlahkan harga menu.
+4. Menampilkan total harga secara otomatis.
+
+**Hasil:** Total harga berubah sesuai pilihan menu pengguna.
+
+**Screenshot:**
+
+![Hasil Eksperimen 10](screenshots/eksperimen-10.png)
+
+### Eksperimen 11 — Menyembunyikan dan Menampilkan Elemen HTML
+
+**Tujuan:** Memahami penggunaan JavaScript untuk mengatur tampilan elemen HTML.
+
+**Langkah kerja:**
+1. Menampilkan teks pada halaman.
+2. Menekan tombol sembunyikan.
+3. Menekan tombol tampilkan.
+4. Mengamati perubahan tampilan elemen.
+
+**Hasil:** Elemen HTML dapat disembunyikan dan ditampilkan kembali melalui tombol.
+
+**Screenshot:**
+
+![Hasil Eksperimen 11](screenshots/eksperimen-11.png)
+
+## 6. Cara Menjalankan Program
+
+1. Siapkan file `index.html` dan `script.js`.
+2. Pastikan kedua file berada di dalam folder proyek yang sama.
+3. Pastikan file HTML memanggil JavaScript menggunakan kode berikut:
+
+   ```html
+   <script src="script.js"></script>
+   ```
+
+4. Buka folder proyek menggunakan Visual Studio Code.
+5. Jalankan `index.html` menggunakan ekstensi Live Server atau buka langsung melalui browser.
+6. Uji setiap latihan dengan memasukkan data dan menekan tombol yang tersedia.
+7. Ambil screenshot hasil pengerjaan dan simpan sesuai nama file pada bagian screenshot.
+
+## 7. Kesimpulan
+
+Melalui praktikum ini, saya mempelajari dasar-dasar JavaScript dan penerapannya pada HTML. Materi yang dipelajari membantu saya memahami cara mengolah data, menggunakan percabangan dan perulangan, membuat fungsi, melakukan validasi formulir, serta memanipulasi elemen HTML.
+
+Praktikum ini juga memberikan pemahaman tentang cara membuat halaman web yang interaktif dan merespons tindakan pengguna.
+
+## 8. Dokumentasi
+
+Screenshot digunakan sebagai bukti hasil pengerjaan setiap latihan. Simpan gambar di dalam folder `screenshots` pada repositori GitHub.
+
+Pastikan nama file gambar sesuai dengan tautan yang digunakan di README. Jika nama file berbeda, ubah tautan gambar agar sesuai dengan nama file sebenarnya.
