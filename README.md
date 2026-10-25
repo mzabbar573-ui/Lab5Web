@@ -23,8 +23,10 @@ Materi teori dasar yang dipelajari meliputi:
 ## 3. Latihan Praktikum
 ### Latihan 2 — Alert dan promt
 ![Hasil Latihan 1](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-23%20134529.png)
-
-### Latihan 2 — Operasi Aritmatika
+![Hasil Latihan 1](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-23%20135212.png)
+![Hasil Latihan 1](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-23%20135246.png)
+![Hasil Latihan 1](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-25%201952451111.png)
+### Latihan 2 — Function dan operasi aritmetika
 
 **Tujuan:** Memahami penggunaan variabel, operator aritmatika, dan pengolahan angka.
 
@@ -34,10 +36,9 @@ Materi teori dasar yang dipelajari meliputi:
 3. Menampilkan hasil perhitungan.
 
 **Hasil:** Program dapat melakukan operasi aritmatika dan menampilkan hasilnya.
-![Hasil Latihan 1](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-23%20135212.png)
-![Hasil Latihan 1](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-23%20134529.png)
+![Hasil Latihan 1](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-24%20210341.png)
 
-### Latihan 2 — Percabangan
+### Latihan 4 — Seleksi kondisi if–else
 
 **Tujuan:** Memahami penggunaan percabangan untuk menentukan tindakan berdasarkan kondisi tertentu.
 
@@ -47,12 +48,10 @@ Materi teori dasar yang dipelajari meliputi:
 3. Menampilkan hasil berdasarkan kondisi.
 
 **Hasil:** Program dapat memberikan keluaran yang berbeda sesuai kondisi yang diperiksa.
+![Hasil Latihan 2](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-24%20201949.png)
+![Hasil Latihan 2](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-24%20202021.png)
 
-**Screenshot:**
-
-![Hasil Latihan 2](screenshots/latihan-2.png)
-
-### Latihan 3 — Perulangan
+### Latihan 5 — Seleksi kondisi switch
 
 **Tujuan:** Memahami penggunaan perulangan untuk menjalankan instruksi secara berulang.
 
@@ -62,12 +61,10 @@ Materi teori dasar yang dipelajari meliputi:
 3. Menampilkan hasil setiap pengulangan.
 
 **Hasil:** Program dapat menjalankan instruksi berulang kali sesuai batas yang ditentukan.
+![Hasil Latihan 3](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-24%20202757.png)
+![Hasil Latihan 3](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-24%20202835.png)
 
-**Screenshot:**
-
-![Hasil Latihan 3](screenshots/latihan-3.png)
-
-### Latihan 4 — Function
+### Latihan 6 — Form bilangan genap atau ganjil
 
 **Tujuan:** Memahami cara membuat dan menggunakan fungsi dalam JavaScript.
 
@@ -77,12 +74,13 @@ Materi teori dasar yang dipelajari meliputi:
 3. Menampilkan hasil fungsi.
 
 **Hasil:** Program dapat menjalankan fungsi sesuai instruksi yang diberikan.
+![Hasil Latihan 4](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-24%20204228.png)
+![Hasil Latihan 4](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-24%20204415.png)
+![Hasil Latihan 4](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-24%20204522.png)
+![Hasil Latihan 4](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-24%20204603.png)
+![Hasil Latihan 4](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-24%20204640.png)
 
-**Screenshot:**
-
-![Hasil Latihan 4](screenshots/latihan-4.png)
-
-### Latihan 5 — Manipulasi HTML
+### Latihan 7 — Mengubah warna halaman
 
 **Tujuan:** Memahami cara JavaScript memilih dan mengubah elemen HTML.
 
@@ -92,12 +90,14 @@ Materi teori dasar yang dipelajari meliputi:
 3. Mengubah isi atau tampilan elemen.
 
 **Hasil:** Isi halaman HTML dapat berubah melalui JavaScript.
+![Hasil Latihan 5](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-24%20204923.png)
+![Hasil Latihan 5](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-24%20205022.png)
 
-**Screenshot:**
+### Latihan 8 — DOM dan checkbox menu makanan
+Buat daftar menu menggunakan checkbox. Total harga berubah otomatis ketika pilihan
+dicentang atau dilepas.
+![Hasil Latihan 5](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-24%20205746.png)
 
-![Hasil Latihan 5](screenshots/latihan-5.png)
-
-> Catatan: Sesuaikan nama dan uraian latihan di atas dengan latihan yang benar-benar terdapat pada modul dan sudah dikerjakan.
 
 ## 4. Mini Project
 
@@ -116,10 +116,7 @@ Menerapkan materi JavaScript yang telah dipelajari dalam sebuah program sederhan
 ### Hasil
 
 Mini project digunakan untuk menggabungkan konsep dasar JavaScript dengan elemen HTML agar program dapat berinteraksi dengan pengguna.
-
-**Screenshot:**
-
-![Hasil Mini Project](screenshots/mini-project.png)
+![Hasil Mini Project](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Mini_Project.png)
 
 ## 5. Eksperimen Mandiri
 
@@ -135,10 +132,6 @@ Mini project digunakan untuk menggabungkan konsep dasar JavaScript dengan elemen
 
 **Hasil:** Program menampilkan hasil operasi aritmatika dari dua angka yang dimasukkan.
 
-**Screenshot:**
-
-![Hasil Eksperimen 1](screenshots/eksperimen-1.png)
-
 ### Eksperimen 7 — Tabel Perkalian 7
 
 **Tujuan:** Menggunakan perulangan untuk membuat tabel perkalian 7 dari 1 sampai 10.
@@ -150,10 +143,7 @@ Mini project digunakan untuk menggabungkan konsep dasar JavaScript dengan elemen
 4. Menampilkan seluruh hasil pada halaman.
 
 **Hasil:** Program menampilkan tabel perkalian 7 dari `7 x 1 = 7` sampai `7 x 10 = 70`.
-
-**Screenshot:**
-
-![Hasil Eksperimen 7](screenshots/eksperimen-7.png)
+![Hasil Eksperimen 7](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/eksperimen_mandiri%201.png)
 
 ### Eksperimen 8 — Fungsi Cek Bilangan Genap
 
@@ -165,10 +155,7 @@ Mini project digunakan untuk menggabungkan konsep dasar JavaScript dengan elemen
 3. Menampilkan hasil pemeriksaan.
 
 **Hasil:** Program dapat menentukan apakah bilangan yang dimasukkan termasuk genap atau ganjil.
-
-**Screenshot:**
-
-![Hasil Eksperimen 8](screenshots/eksperimen-8.png)
+![Hasil Eksperimen 7](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/eksperimen_mandiri%203.png)
 
 ### Eksperimen 9 — Validasi Formulir
 
@@ -182,10 +169,6 @@ Mini project digunakan untuk menggabungkan konsep dasar JavaScript dengan elemen
 
 **Hasil:** Program menampilkan pesan validasi jika data sesuai atau pesan kesalahan jika data tidak valid.
 
-**Screenshot:**
-
-![Hasil Eksperimen 9](screenshots/eksperimen-9.png)
-
 ### Eksperimen 10 — Pemilihan Menu dan Perhitungan Harga
 
 **Tujuan:** Menghitung total harga berdasarkan menu yang dipilih pengguna.
@@ -198,10 +181,6 @@ Mini project digunakan untuk menggabungkan konsep dasar JavaScript dengan elemen
 
 **Hasil:** Total harga berubah sesuai pilihan menu pengguna.
 
-**Screenshot:**
-
-![Hasil Eksperimen 10](screenshots/eksperimen-10.png)
-
 ### Eksperimen 11 — Menyembunyikan dan Menampilkan Elemen HTML
 
 **Tujuan:** Memahami penggunaan JavaScript untuk mengatur tampilan elemen HTML.
@@ -213,10 +192,7 @@ Mini project digunakan untuk menggabungkan konsep dasar JavaScript dengan elemen
 4. Mengamati perubahan tampilan elemen.
 
 **Hasil:** Elemen HTML dapat disembunyikan dan ditampilkan kembali melalui tombol.
-
-**Screenshot:**
-
-![Hasil Eksperimen 11](screenshots/eksperimen-11.png)
+![Hasil Eksperimen 11](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/eksperimen_mandiri%202.png)
 
 ## 6. Cara Menjalankan Program
 
