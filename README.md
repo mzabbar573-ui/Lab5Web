@@ -21,8 +21,10 @@ Materi teori dasar yang dipelajari meliputi:
 - **Validasi input:** memeriksa data yang dimasukkan pengguna.
 
 ## 3. Latihan Praktikum
+### Latihan 2 — Alert dan promt
+![Hasil Latihan 1](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-23%20134529.png)
 
-### Latihan 1 — Operasi Aritmatika
+### Latihan 2 — Operasi Aritmatika
 
 **Tujuan:** Memahami penggunaan variabel, operator aritmatika, dan pengolahan angka.
 
@@ -32,9 +34,7 @@ Materi teori dasar yang dipelajari meliputi:
 3. Menampilkan hasil perhitungan.
 
 **Hasil:** Program dapat melakukan operasi aritmatika dan menampilkan hasilnya.
-
-**Screenshot:**
-
+![Hasil Latihan 1](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-23%20135212.png)
 ![Hasil Latihan 1](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-23%20134529.png)
 
 ### Latihan 2 — Percabangan
@@ -232,15 +232,3 @@ Mini project digunakan untuk menggabungkan konsep dasar JavaScript dengan elemen
 5. Jalankan `index.html` menggunakan ekstensi Live Server atau buka langsung melalui browser.
 6. Uji setiap latihan dengan memasukkan data dan menekan tombol yang tersedia.
 7. Ambil screenshot hasil pengerjaan dan simpan sesuai nama file pada bagian screenshot.
-
-## 7. Kesimpulan
-
-Melalui praktikum ini, saya mempelajari dasar-dasar JavaScript dan penerapannya pada HTML. Materi yang dipelajari membantu saya memahami cara mengolah data, menggunakan percabangan dan perulangan, membuat fungsi, melakukan validasi formulir, serta memanipulasi elemen HTML.
-
-Praktikum ini juga memberikan pemahaman tentang cara membuat halaman web yang interaktif dan merespons tindakan pengguna.
-
-## 8. Dokumentasi
-
-Screenshot digunakan sebagai bukti hasil pengerjaan setiap latihan. Simpan gambar di dalam folder `screenshots` pada repositori GitHub.
-
-Pastikan nama file gambar sesuai dengan tautan yang digunakan di README. Jika nama file berbeda, ubah tautan gambar agar sesuai dengan nama file sebenarnya.
