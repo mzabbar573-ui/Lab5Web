@@ -35,7 +35,7 @@ Materi teori dasar yang dipelajari meliputi:
 
 **Screenshot:**
 
-![Hasil Latihan 1](screenshots/latihan-1.png)
+![Hasil Latihan 1](https://github.com/mzabbar573-ui/Lab5Web/blob/main/ScreenShoot%20lab5/Screenshot%202026-10-23%20134529.png)
 
 ### Latihan 2 — Percabangan
 
